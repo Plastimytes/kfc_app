@@ -15,9 +15,25 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by editing <code>app/page.js</code>.
+            new work for starting <code>app/page.js</code>.
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Lift six foot, seven foot, eight foot bunch
+Daylight come and me wan' go home
+Six foot, seven foot, eight foot bunch
+Daylight come and me wan' go home
+Day, me say day-o
+Daylight come and me wan' go home
+Day, me say day, me say day, me say day
+Daylight come and me wan' go home
+Come, mister tally man, tally me banana
+Daylight come and me wan' go home
+Come, mister tally man, tally me banana
+Daylight come and me wan' go home
+Day-o, day-o
+Daylight come and me wan' go home
+Day, me say day, me say day, me say day
+Me say day, me say day-o
+Daylight come and me wan' go home.</li>
         </ol>
 
         <div className={styles.ctas}>
