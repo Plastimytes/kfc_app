@@ -4,6 +4,22 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <div className={styles.page}>
+    <p>Engineering mathematics is a branch of applied mathematics that applies mathematical theory, scientific computing, and practical engineering to solve real-world problems. It's an interdisciplinary subject that uses mathematical methods and techniques in engineering and industry. 
+Some topics covered in engineering mathematics include:
+Algebra
+Trigonometry
+2-D vectors
+Basics of integration
+Differential equations
+Matrices and systems of equations
+Complex numbers 
+Specialized branches of engineering mathematics include engineering statistics and engineering optimization. 
+Some resources for learning engineering mathematics include:
+Engineering Mathematics - I - Course - Swayam - NPTEL: This course covers topics like differential calculus, integral calculus, linear algebra, and differential equations. 
+Engineering Mathematics (Volume 1): This 1020-page book is published by Industrial Press, Inc. 
+Quick and Dirty Introduction to Matlab: This YouTube video provides an overview of some basic Matlab commands. 
+Mathematics for Engineering Students: This video reviews topics from algebra and calculus, including elementary functions, partial derivatives, and complex numbers. 
+How Much Math is REALLY in Engineering? This video explores the amount of math involved in engineering. </p>
       <main className={styles.main}>
         <Image
           className={styles.logo}
