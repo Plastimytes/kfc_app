@@ -1,2 +1,244 @@
 What do you need for a web application 
 Can it be converted into an APK?
+
+Engineering Mathematics (EGR 1010) Topics and Materials
+EGR 1010 is an applied mathematics course taught by the College of Engineering and Computer Science faculty, consisting of lecture, lab, and recitation. All topics are driven by engineering applications taken directly from core engineering courses. The lectures are motivated by hands-on laboratory exercises including a thorough integration with Matlab.
+
+Topics
+Class Materials
+Sample Materials
+Course Information
+Lecture Notes
+Homework
+Laboratory Assignments
+Exams
+Topics
+Basic Algebraic Manipulations (1.0 weeks)
+Trigonometry (1.0 weeks)
+2-D Vectors (1.0 weeks)
+Complex Numbers (1.0 weeks)
+Sinusoids & Harmonic Signals (1.0 weeks)
+Matrices & Systems of Equations (1.0 weeks)
+Basics of Differentiation (3.0 weeks)
+Basics of Integration (3.0 weeks)
+Differential Equations (3.0 weeks)
+Class Materials
+Introductory Mathematics for Engineering Application, 2nd Edition
+MATLAB: An Introduction with Applications, 6th Edition
+Sample Materials
+(Updated 09/13/2023)
+
+Course Info
+Syllabus - Fall 2023 (PDF)
+Schedule - Fall 2023 (PDF)
+Lecture Notes
+Week 1
+Straight Lines in Engineering (PDF)
+Quadratic Equations in Engineering (PDF)
+Algebra and Geometry Handout (PDF)
+Videos
+
+Introduction
+Vehicle During Braking - pt. 1 (Intro, Slope Only)
+Vehicle During Braking - pt. 2 (y-intercept, Plotting)
+Electric Circuits - pt. 1 (Intro, Slope Only)
+Electric Circuits - pt. 2 (y-intercept)
+Electric Circuits - pt. 3 (Inverse Problem)
+Pre-loaded Tension Spring - pt. 1
+Pre-loaded Tension Spring - pt. 2 (Inverse Problem)
+Projectile Motion - pt. 1
+Projectile Motion - pt. 2
+Quadratic Example - Series Circuit Containing a Lamp
+Quadratic Example - Resistors in Parallel
+Week 2
+Trigonometry in Engineering (PDF)
+Trigonometry Handout (PDF)
+Videos
+
+One Link Robot - pt. 1 (Intro)
+One Link Robot - pt. 2 (Identities, Definitions)
+One Link Robot - pt. 3 (On Axis Examples)
+One Link Robot - pt. 4 (Off Axis Examples, Ref Angle)
+One Link Robot - pt. 5 (Summary)
+One Link Robot - pt. 6 (Exact Angle Examples)
+One Link Robot - pt. 7 (Large Angle Examples)
+One Link Robot - pt. 8 (Inverse Problem)
+One Link Robot - pt. 9 (atan2)
+One Link Robot - pt. 10 (atan2 Example)
+Two Link Robot - pt. 1 (Intro, Examples)
+Two Link Robot - pt. 2 (Inverse Problem to Theta2, Law of Sin/Cos)
+Two Link Robot - pt. 3 (Inverse Problem to Theta1, Elbow up/down)
+Week 3
+2D Vectors in Engineering (PDF)
+Videos
+
+Introduction and Definitions
+Polar/Rectangular Examples
+Statics - Vacuum Example
+Vector Addition - Position Vectors of the Two Link Robot
+2D Vectors - Ship Positioning
+2D Vectors - Airplane Relative Velocity Example
+Airplane Relative Velocity Using Law of Sines/Cosines
+2D Vectors - Cable Tension Example
+2D Vectors - Television on a Ramp
+Week 4
+Complex Numbers in Engineering (PDF)
+Videos
+
+Complex Number Notation
+Comparison to Vector Math
+Impedance - pt. 1 (Resistor)
+Impedance - pt. 2 (Inductor)
+Impedance - pt. 3 (Capacitor)
+Impedance - pt. 4 (Circuit Components in Series)
+Complex Number Calculations (Multiplication)
+Complex Number Calculations (Division)
+Complex Number Calculations (Complex Conjugate)
+Week 5
+Sinusoids in Engineering (PDF)
+Videos
+
+Plotting of One Link Robot Components w.r.t Theta
+Plotting of One Link Robot Components w.r.t Time (No Phase Angle)
+Plotting of One Link Robot Components w.r.t Time (Phase Angle)
+Oscillating Spring-Mass Example 1
+Oscillating Spring-Mass Example 2 (Eqn. to Picture)
+Oscillating Spring-Mass Example 3 (Picture to Eqn.)
+Addition of Sinusoids - pt. 1 (One Phase Angle into Sine)
+Addition of Sinusoids - pt. 2 (One Phase Angle into Cosine)
+Addition of Sinusoids - pt. 3 (Complex Number Method)
+Addition of Sinusoids - pt. 4 (Two Phase Angles into Sine)
+Week 6
+Systems of Equations in Engineering (PDF)
+Videos
+
+The Two Loop Circuit - pt. 1 (Substitution)
+The Two Loop Circuit - pt. 2 (Graphing)
+The Two Loop Circuit - pt. 3 (Matrix Method)
+The Two Loop Circuit - pt. 4 (Cramer's Rule)
+Static Equilibrium Example (Intro)
+Static Equilibrium Example (Substitution)
+Static Equilibrium Example (Matrix Method)
+Static Equilibrium Example (Cramer's Rule)
+Week 7
+Introduction to Derivatives in Engineering (PDF)
+Derivatives in Dynamics (PDF)
+Derivatives Handout (PDF)
+Videos
+
+Introduction to the Derivative (Freefall Example 1st Half)
+The Derivative Handout
+Introduction to the Derivative (Freefall Example 2nd Half)
+Derivatives - pt. 1 (Projectile Motion)
+Derivatives - pt. 2 (Concavity)
+Derivatives - pt. 3 (Dynamics & Equation Practice)
+Derivatives - pt. 4 (Particle Motion - Position, Velocity, and Acceleration)
+Derivatives - pt. 5 (Particle Motion - Sketching)
+Derivatives and Plotting - pt. 1 (Sketching the Velocity)
+Derivatives and Plotting - pt. 2 (Sketching the Position)
+Beam Dynamics - pt. 1 (Intro)
+Beam Dynamics - pt. 2 (Velocity & Acceleration)
+Week 8
+Derivatives in Electric Circuits (PDF)
+Videos
+
+Introduction and Definitions
+Example 1 - Charge and Power - pt. 1 (Current)
+Example 1 - Charge and Power - pt. 2 (Power)
+Example 1 - Charge and Power - pt. 3 (Maximum Power)
+Example 2 - Inductor - pt. 1 (Voltage Calculation)
+Example 2 - Inductor - pt. 2 (Location of Maximum and Sketch)
+Example 3 - Inductor Plotting - pt. 1 (Current)
+Example 3 - Inductor Plotting - pt. 2 (Power)
+Example 4 - Current Across a Capacitor (Addition of Sinusoids Review)
+Example 5 - Capacitor Plotting - pt. 1 (Charge)
+Example 5 - Capacitor Plotting - pt. 2 (Voltage)
+Week 9
+Derivatives in Strength of Materials (PDF)
+Videos
+
+Introduction to Beams
+Cantilever Beam Example
+Simply Supported Beam Example (Point Load)
+Simply Supported Beam Example (Sinusoidal Load)
+Axially Loaded Bar - pt. 1 (Normal and Shear Stress on Oblique Plane)
+Axially Loaded Bar - pt. 2 (Maximum Stresses)
+Week 10
+Introduction to Integrals in Engineering (PDF)
+Integrals in Statics (PDF)
+Integrals Handout (PDF)
+Videos
+
+The Asphalt Problem - pt. 1 (Intro & Inscribed Rectangles)
+The Asphalt Problem - pt. 2 (Integration)
+The Integral Handout
+Back to the Asphalt Problem
+Integration - Concept of Work (Integration Practice)
+Introduction to Centroids
+Centroid of a Triangle w.r.t. "x"
+Centroid of a Triangle w.r.t. "y"
+Centroids of Solid Bodies (1st Moment of Area of a Rectangle)
+Distributed Load on a Dam - Resultant Force
+Distributed Load on a Beam - Location of the Resultant Force
+Distributed Load on a Beam - Example
+Week 11
+Integrals in Dynamics (PDF)
+Videos
+
+Integration - Pt. 1 (Position, Velocity, & Acceleration)
+Integration - Pt. 2 (Freefall Example)
+Integration - Pt. 3 (Projectile Example)
+Integration - Pt. 4 (Graphical Interpretation)
+Integrals and Plotting Example
+Week 12
+Integrals in Electric Circuits (PDF)
+Videos
+
+Example 1 - Capacitor - pt. 1 (Voltage)
+Example 1 - Capacitor - pt. 2 (Stored Energy)
+Extra Example - Inductor - pt. 1 (Current)
+Extra Example - Inductor - pt. 2 (Sketch)
+Extra Example - Inductor - pt. 3 (Power)
+Extra Example - Inductor - pt. 4 (Stored Energy)
+Example 3 - Capacitor Plotting
+Example 4 - Capacitor Plotting (curves)
+Example 5 - Inductor Plotting
+Example 5 - Inductor Plotting - pt. 2 (Shifted Waveform)
+Week 13
+Introduction to Differential Equations in Engineering (PDF)
+Differential Equations Handout (PDF)
+Videos
+
+The Leaky Bucket (Introduction)
+The Differential Equation Handout
+The Leaky Bucket (Transient Solution)
+The Leaky Bucket (Steady State Solution)
+The Leaky Bucket (Total Soln and Plotting)
+Total Solution for the Leaky Bucket Lab
+Week 14
+Differential Equations in Mechanical Systems (PDF)
+Videos
+
+The Spring Mass System (Introduction)
+The Spring Mass System (Unforced Response - Transient & Steady State)
+The Spring Mass System (Unforced Response - Initial Conditions)
+The Spring Mass System (Forced Response - Transient & Steady State)
+The Spring Mass System (Forced Response - Initial Conditions)
+The Spring Mass System (Approaching Resonance)
+Week 15
+Differential Equations in Electric Systems (PDF)
+Videos
+
+Intro to an RC Circuit
+RC Circuit (Transient Solution)
+RC Circuit (Steady State and Total Solution with Zero Input)
+RC Circuit (Steady State and Total Solution with Constant Input)
+RC Circuit - pt. 1 (Sinusoidal Input Through Total Solution)
+RC Circuit - pt. 2 (Applying Initial Conditions and Low Pass Filter)
+Intro to an LC Circuit
+LC Circuit (Transient Solution)
+LC Circuit (Steady State Solution and Total Solution with Zero Input)
+LC Circuit (Steady State Solution and Total Solution with Constant Input)
+LC Circuit (Steady State Solution and Total Solution with Sinusoidal Input)
+LC Circuit Resonance
+Download all Sample Lecture Notes (Zip)
